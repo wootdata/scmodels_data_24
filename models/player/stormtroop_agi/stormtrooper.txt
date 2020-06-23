@@ -1,0 +1,68 @@
+
+			Stormtrooper from Star Wars
+
+
+Here I go again.
+
+This is my second attempt to create a model. 
+
+Release 1.:
+-----------
+The facecount. This was my greatest problem when I created the helmet. It's now over 200. For this I must create low-polygon arms and legs. The elbow is very bad at little bending. It looks like very sharp. But the textures are all good (I think...).     (Never released...)
+
+Release 2.: 
+-----------
+The facecount is higher then the latest one. It's now 920. But almost all of the elbow problems are corrected. I think an error occours: I deleted the faces of the triceps and I added two vertexes and created new faces, but I cannot understand why the facecount grow with 10 because 2 new vertex (in my model) creates 4 new faces, so I thought that the end will 918. And why the vertices count grow with 20 ?????? 
+
+A problem... I designed the model's name to : Stormtrooper_Agi , but at the final testing (with Jumbot) I realized that this name is too long... :-(
+I must have truncated it to Stormtroop_Agi.
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Model Info:
+
+                 R1                           R2
+
+Author        : H-ee "Agi" The DDD
+Vertices      : 581                      ,   601
+Triangles     : 910                      ,   920
+Joints        : 40                       ,   not changed (of course)
+Built time    : About 5 days (3-4 hours a day)  +  an hour
+Animations    : Valve
+Programs Used : MilkShape 3D 1.1.0 Beta5, Photoshop 5.0, Mdlviewer 2.1
+Known Bugs    : Elbow problems            ,   I think nothing....
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Installation :
+
+Just copy the Stormtroop_Agi.mdl and Stormtroop_Agi.bmp into the Stormtroop_Agi folder
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Thanx to : 
+
+Valve for making this peak game Half-Life
+
+Scarecrow at ColdFusion for the tutorials. Without these I never start to make a model. 
+
+Music Instructor, and all the creators of the soundtrack of the Matrix these played when I created the model.
+
+Chumbalum Soft for MilkShape 3D.
+
+Otis, Ascent and Dark Yoda for the model viewer.
+
+The creators of The Jumbot.
+
+The Wachowski Brothers for the Matrix, because if I was tired I saw a few minutes from it.
+
+Special thanks to George Lucas for Star Wars.
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Please feel free to distribute these files, but do not delete this file.
+If you wanna contact me:
+
+E-Mail : agi_f@umszki.hu
+
+						H-ee "Agi" The DDD

@@ -1,0 +1,6 @@
+Gordon high polygon count model.
+
+Comments:
+As far as i know, the original model was taken from PS2.
+
+Edited and re-textured for XDM.

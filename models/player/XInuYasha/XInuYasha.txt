@@ -1,0 +1,17 @@
+XHL InuYasha v2.0
+
+- 3D face, eyes
+- Mesh redone 75%
+- New textures
+
+Reference mesh converted from PS2 by mariokart64
+Animations taken from Cardcaptor Sakura 1.03 model by OmegaLE
+Player model made by xawari
+
+For X-Half-Life: Deathmatch 3.0.3.8
+Please do not redistribute separately.
+
+2 skins
+2 LODs
+
+- Keh!

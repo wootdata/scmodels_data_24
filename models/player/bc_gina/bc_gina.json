@@ -1,1 +1,129 @@
-{"seq_groups": 1, "hash": "88fb6baaaeccdcc72c692b44116a5197", "tri_count": "1442"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1442,
+					"verts": 763
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "88fb6baaaeccdcc72c692b44116a5197",
+	"name": "C:\\Backup\\BumperCarFiles\\Models\\gina\\gina.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 94,
+			"name": "CHB_Side1.bmp",
+			"width": 116
+		}, 
+		{
+			"flags": 0,
+			"height": 53,
+			"name": "CHB_Eye1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 1,
+			"name": "CHB_Tounge1.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "DM_Base.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome1.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,982 @@
-{"seq_groups": 1, "hash": "5bb8372459886ea9db4ed6da2823ba76", "tri_count": "260"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "chicken",
+					"polys": 260,
+					"verts": 130
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "5bb8372459886ea9db4ed6da2823ba76",
+	"name": "chicken.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "swim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 65,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "ltHip",
+			"parent": -1
+		}, 
+		{
+			"name": "ltJoint",
+			"parent": 0
+		}, 
+		{
+			"name": "ltFoot",
+			"parent": 1
+		}, 
+		{
+			"name": "rtHip",
+			"parent": -1
+		}, 
+		{
+			"name": "rtJoint",
+			"parent": 3
+		}, 
+		{
+			"name": "rtFoot",
+			"parent": 4
+		}, 
+		{
+			"name": "Body",
+			"parent": -1
+		}, 
+		{
+			"name": "Neck",
+			"parent": 6
+		}, 
+		{
+			"name": "Head",
+			"parent": 7
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 129,
+			"name": "skin.bmp",
+			"width": 144
+		}
+	],
+	"version": 10
+}

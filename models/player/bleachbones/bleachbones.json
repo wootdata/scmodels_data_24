@@ -1,1 +1,115 @@
-{"seq_groups": 1, "hash": "1ec0788f692cd0d8f88d864d51ae4269", "tri_count": "492"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "BSKULL_Template1",
+					"polys": 86,
+					"verts": 45
+				}, 
+				{
+					"name": "JawBone1",
+					"polys": 126,
+					"verts": 65
+				}, 
+				{
+					"name": "PELVIS_Template1",
+					"polys": 78,
+					"verts": 38
+				}, 
+				{
+					"name": "Ribcage1",
+					"polys": 164,
+					"verts": 108
+				}, 
+				{
+					"name": "Riblet1",
+					"polys": 38,
+					"verts": 21
+				}
+			],
+			"name": "parts"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "1ec0788f692cd0d8f88d864d51ae4269",
+	"name": "valve/models/Bleachbones.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Dummy01",
+			"parent": -1
+		}, 
+		{
+			"name": "Object02",
+			"parent": 0
+		}, 
+		{
+			"name": "Object18",
+			"parent": 0
+		}, 
+		{
+			"name": "Object14",
+			"parent": 0
+		}, 
+		{
+			"name": "Object04",
+			"parent": 0
+		}, 
+		{
+			"name": "Object08",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "SKL_Side1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 57,
+			"name": "SKL_Face1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 58,
+			"name": "Jaw1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "PELVIS_Side1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 75,
+			"name": "Rib1.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 25,
+			"name": "Rib-X1.bmp",
+			"width": 72
+		}
+	],
+	"version": 10
+}

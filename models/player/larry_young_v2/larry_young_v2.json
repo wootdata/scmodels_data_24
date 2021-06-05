@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "larry_young_larrypt1",
+					"name": "larrypt1",
 					"polys": 1278,
 					"verts": 658
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "larry_young_larrypt2alt",
+					"name": "larrypt2alt",
 					"polys": 2612,
 					"verts": 1366
 				}
@@ -156,30 +156,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -311,7 +311,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "6ba9983b6e1bc481fc32353f4d4acb07",
+	"md5": "e5f434f1b1e9a38999becf5cf03da63a",
 	"name": "larry.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1224,59 +1224,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 1,
-			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1477452,
+	"size": 1409520,
 	"skeleton": [
 		{
 			"name": "Bip01",

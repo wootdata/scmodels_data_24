@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 39,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 39,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 39,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Raptor",
-					"polys": 3150,
-					"verts": 1703
+					"name": "scuba",
+					"polys": 930,
+					"verts": 467
 				}
 			],
 			"name": "body"
@@ -146,30 +141,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "83f9c96f798154c236c6ec36f23fc77f",
-	"name": "hgrunt.mdl",
+	"md5": "a781eaaefec7189144e1c6984099c2e2",
+	"name": "scuba.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -322,12 +317,12 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 25,
+			"frames": 23,
 			"name": "run2"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 17,
+			"frames": 24,
 			"name": "walk2handed"
 		}, 
 		{
@@ -1214,9 +1209,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1495376,
+	"size": 1041916,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1275,44 +1315,92 @@
 			"parent": 12
 		}, 
 		{
+			"name": "Dummy08",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 14
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 15
+		}, 
+		{
+			"name": "Dummy05",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone09",
+			"parent": 17
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 19
+		}, 
+		{
+			"name": "Dummy03",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 21
+		}, 
+		{
+			"name": "Dummy09",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 23
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 13
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 27
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 17
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 18
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 L Finger02",
-			"parent": 19
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 L Finger1",
-			"parent": 17
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 21
+			"parent": 33
 		}, 
 		{
 			"name": "Bip01 L Finger12",
-			"parent": 22
+			"parent": 34
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1320,127 +1408,55 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 36
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 37
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 38
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 27
+			"parent": 39
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 28
+			"parent": 40
 		}, 
 		{
 			"name": "Bip01 R Finger02",
-			"parent": 29
+			"parent": 41
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 27
+			"parent": 39
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 31
+			"parent": 43
 		}, 
 		{
 			"name": "Bip01 R Finger12",
-			"parent": 32
+			"parent": 44
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 64,
-			"height": 144,
-			"name": "soldier_mask.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_helmet.bmp",
-			"width": 96
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "soldier_neck_cover.bmp",
-			"width": 32
-		}, 
-		{
-			"flags": 32,
-			"height": 144,
-			"name": "soldier_mask_lens.bmp",
-			"width": 256
-		}, 
-		{
 			"flags": 0,
 			"height": 256,
-			"name": "soldier_head_grunt_wht.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 384,
-			"name": "soldier_body.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_hand_wht.bmp",
+			"name": "scuba.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
 			"height": 128,
-			"name": "soldier_arm_wht.bmp",
+			"name": "face.bmp",
 			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_pouches.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 125,
-			"name": "wp_grenade.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 131,
-			"name": "soldier_backpack.bmp",
-			"width": 236
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_holster.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 63,
-			"name": "soldier_holster_pistol.bmp",
-			"width": 124
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_boots.bmp",
-			"width": 192
 		}
 	],
 	"version": 10

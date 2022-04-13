@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "Raptor",
-					"polys": 3150,
-					"verts": 1703
+					"name": "character",
+					"polys": 2492,
+					"verts": 1274
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "83f9c96f798154c236c6ec36f23fc77f",
-	"name": "hgrunt.mdl",
+	"md5": "09edcb8ee363807422c5acbf8b7c3d87",
+	"name": "mafiaboss.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1495376,
+	"size": 1629028,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,48 +1271,16 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1320,127 +1288,51 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 32
+			"parent": 18
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 64,
-			"height": 144,
-			"name": "soldier_mask.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_helmet.bmp",
-			"width": 96
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "soldier_neck_cover.bmp",
-			"width": 32
-		}, 
-		{
-			"flags": 32,
-			"height": 144,
-			"name": "soldier_mask_lens.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "soldier_head_grunt_wht.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 384,
-			"name": "soldier_body.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_hand_wht.bmp",
-			"width": 256
-		}, 
-		{
 			"flags": 0,
 			"height": 128,
-			"name": "soldier_arm_wht.bmp",
-			"width": 128
+			"name": "hands.bmp",
+			"width": 244
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "soldier_pouches.bmp",
-			"width": 256
+			"height": 512,
+			"name": "body_texture.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 125,
-			"name": "wp_grenade.bmp",
-			"width": 128
+			"height": 512,
+			"name": "legs_texture.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 131,
-			"name": "soldier_backpack.bmp",
-			"width": 236
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_holster.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 63,
-			"name": "soldier_holster_pistol.bmp",
-			"width": 124
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_boots.bmp",
-			"width": 192
+			"height": 512,
+			"name": "face_texture.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

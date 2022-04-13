@@ -1,0 +1,60 @@
+******SCUBA DIVER******
+
+Model / Textures - Daryl Willms
+Copyright 2000 Daryl Willms
+
+******SCUBA DIVER******
+
+Wouldn't you want to play as a scuba diver?
+
+
+
+--------------------------------------------------
+This is my first model submition, although I have 
+been working with 3dsmax and Photoshop for many 
+years.
+
+My name is Daryl Willms.  I am in grade 11 at 
+Robert Bateman Secondary School.  I currently 
+have been accepted to work as a animator/modeler 
+for a company called AlienTrap.
+
+I made it a Scuba Diver, because frankly I could 
+not think of anything else.  It also seemed like 
+a challenging model/texture character to make.  
+--------------------------------------------------
+
+
+******SCUBA DIVER SPECS******
+
+
+930 Polys - Ok ok its a little high but it REALLY
+	    is worth it...
+1x256x256 - Base Map
+1x128x128 - Face/Goggles Map
+
+******Custom Animations******
+
+-Look_idle
+-Run2
+-Walk2handed
+-Swim
+
+Though I made more! oh well...enjoy the ones I made.
+
+
+
+Thank you for looking at my model.
+
+-Daryl Willms
+ rb_dwillms@hotmail.com
+
+
+
+***Credits****
+
+Eric Testroete:  For helping me figure out how to make 
+custom animations look real pretty.
+
+
+

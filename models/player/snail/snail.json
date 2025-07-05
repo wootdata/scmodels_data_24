@@ -1,0 +1,224 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "snail",
+					"polys": 750,
+					"verts": 376
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "0a07e4b514ac75b85338dabe69e4e0ad",
+	"name": "D:\\Steam\\steamapps\\common\\Sven Co-op\\svencoop_addon\\models\\playe",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 4.000000,
+			"frames": 31,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 31,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "swim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 27,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 27,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 27,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 27,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 27,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 27,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 27,
+			"name": "gutshot"
+		}
+	],
+	"size": 375952,
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01_body",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01_head",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01_eye_left",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01_eye_right",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01_stalk_left",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01_stalk_right",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01_tail",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01_house",
+			"parent": 1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "remap1_000_255_255.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "remap2_000_000_255.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

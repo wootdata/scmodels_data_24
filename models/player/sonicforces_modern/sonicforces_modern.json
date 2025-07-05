@@ -21,8 +21,8 @@
 			"models": [
 				{
 					"name": "SonicForces1",
-					"polys": 2952,
-					"verts": 1653
+					"polys": 2000,
+					"verts": 1101
 				}
 			],
 			"name": "body"
@@ -31,8 +31,8 @@
 			"models": [
 				{
 					"name": "SonicForces2",
-					"polys": 3432,
-					"verts": 1720
+					"polys": 2969,
+					"verts": 1587
 				}
 			],
 			"name": "body"
@@ -41,8 +41,8 @@
 			"models": [
 				{
 					"name": "SonicForces3",
-					"polys": 3432,
-					"verts": 1720
+					"polys": 952,
+					"verts": 552
 				}
 			],
 			"name": "body"
@@ -52,7 +52,7 @@
 				{
 					"name": "SonicForces4",
 					"polys": 2160,
-					"verts": 1155
+					"verts": 1156
 				}
 			],
 			"name": "body"
@@ -61,8 +61,8 @@
 			"models": [
 				{
 					"name": "SonicForces5",
-					"polys": 2160,
-					"verts": 1156
+					"polys": 3432,
+					"verts": 1720
 				}
 			],
 			"name": "body"
@@ -91,28 +91,8 @@
 			"models": [
 				{
 					"name": "SonicForces8",
-					"polys": 2969,
-					"verts": 1587
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SonicForces9",
-					"polys": 1212,
-					"verts": 636
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SonicForces10",
-					"polys": 3285,
-					"verts": 1736
+					"polys": 3620,
+					"verts": 1903
 				}
 			],
 			"name": "body"
@@ -386,7 +366,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "62f90b7ff6b30daf24ab5dfe4a265147",
+	"md5": "721bf0b3c17c09b1ccfeb6a2afcb7955",
 	"name": "E:\\Escritorio\\SonicForces_Modern\\SonicForces_Modern.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1346,7 +1326,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1902128,
+	"size": 1765820,
 	"skeleton": [
 		{
 			"name": "Bip01",

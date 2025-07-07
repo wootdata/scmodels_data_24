@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "82f07e34decbea02c7a45c391ead23a8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wolverine.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

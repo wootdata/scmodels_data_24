@@ -58,6 +58,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -286,7 +287,11 @@
 	],
 	"id": 1414743113,
 	"md5": "48df23265bfa25d961cdb4909d9bc604",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "helmet.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e984ec699191fe03e07cc0131e56b9fe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shifty.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "cab"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d2ad9ca0510129f576e3f950d11e8cb5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "robo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "fans12349"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -401,7 +402,11 @@
 	],
 	"id": 1414743113,
 	"md5": "81dd064451b490e2b164ac6538d8224a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cesar.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

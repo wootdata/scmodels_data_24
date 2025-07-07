@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c1f5d55ca1911efbb1ac1d8b5b03c44",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Postal.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

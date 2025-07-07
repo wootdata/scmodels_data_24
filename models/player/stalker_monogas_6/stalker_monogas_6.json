@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5e82cceaf3844c103c4a13ebf654c4b7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stalker_Dutyantigas.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

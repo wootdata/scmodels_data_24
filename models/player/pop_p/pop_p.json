@@ -183,6 +183,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -453,7 +454,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3c856255ef97bee3cba71b09c066b2f7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\64150\\Desktop\\()pop team epic\\player\\pop_p\\pop_p.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

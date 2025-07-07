@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -753,7 +754,11 @@
 	],
 	"id": 1414743113,
 	"md5": "70a6ac1f181cd750a2ba23a1be11dafa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_yae.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

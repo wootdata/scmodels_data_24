@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5830e730cad88940c7cc3a8a010a0bf0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bunnygirl_casino2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

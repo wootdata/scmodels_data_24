@@ -153,6 +153,7 @@
 			"name": "KZ-Sheez"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0b525ac82f1f5d2202477ab776eadc83",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NekoPara_Azuki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

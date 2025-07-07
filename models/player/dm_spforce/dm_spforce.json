@@ -53,6 +53,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7ccb4aaf87d5617db660962de60ee20b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_spforce.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

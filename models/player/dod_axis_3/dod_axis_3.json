@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -372,7 +373,11 @@
 	],
 	"id": 1414743113,
 	"md5": "31d7868a1ee78536b40908df0a87ead0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_Axis_3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265566489,
 	"events": [
@@ -270,7 +271,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fa055de14766c6b0df8ff970e265d287",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-Sasdesert.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

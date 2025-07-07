@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8383d2f309f0c000c9255ab0bba5970",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Bigote.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

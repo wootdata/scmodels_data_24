@@ -83,6 +83,7 @@
 			"name": "badge"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "36d256c62d8d1d30f6bb00dff77dc507",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_nikeboots.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

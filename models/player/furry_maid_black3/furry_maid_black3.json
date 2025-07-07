@@ -178,6 +178,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -512,7 +513,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5ab19d607255bdc68a7fda7055308542",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "furry_maid_black2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

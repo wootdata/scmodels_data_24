@@ -63,6 +63,7 @@
 			"name": "holster"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -355,7 +356,11 @@
 	],
 	"id": 1414743113,
 	"md5": "33cdd725bf2adeee243bb9cb6a7a1606",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_miller2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

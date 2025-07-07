@@ -33,6 +33,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8b505f6624bc8be7564185a07f11f31",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Raccoon_Civilian.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

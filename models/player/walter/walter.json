@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e359ca6725fbc2053fc0ecf143094b55",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "walter.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eb06a8cf0531aa9388c26ffc2e5b8379",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pyroTF2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

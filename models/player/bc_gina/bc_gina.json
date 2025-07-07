@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [],
 	"date": 1055943540,
 	"events": [],
 	"id": 1414743113,
 	"md5": "88fb6baaaeccdcc72c692b44116a5197",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Backup\\BumperCarFiles\\Models\\gina\\gina.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

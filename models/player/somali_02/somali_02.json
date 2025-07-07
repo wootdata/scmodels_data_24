@@ -48,6 +48,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "67e5d8385792c3b77924fa2225b4b269",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Somali_02.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3f418d39ea1fcc35bfb36aa26812492c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/gman/Gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -798,7 +799,11 @@
 	],
 	"id": 1414743113,
 	"md5": "40be404f4c225ec061c5b1afbabdd1de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Arknights_Exusiai.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

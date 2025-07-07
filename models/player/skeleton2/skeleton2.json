@@ -63,6 +63,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0a397bee9f131747812e0ff237c76345",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "skeleton2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -415,7 +416,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e66800ddf60afd1219ce6dcf6bfa1e8b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_chen_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

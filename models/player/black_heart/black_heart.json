@@ -88,6 +88,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f20bdab2556dffea1736663b895104dd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Black_Heart.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

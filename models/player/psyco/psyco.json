@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cd13a48bc49c575d390c79676f3f95c5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Psyco.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

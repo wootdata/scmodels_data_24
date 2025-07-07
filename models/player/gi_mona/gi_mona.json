@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -822,7 +823,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4dd50a1eb9c8dc6b544dbbf606b1927a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_mona.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fd632a0c617cf191c721fd3d05d572c8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\SuperMarioSkinPack\\DaisyS3C\\DaisyS3C.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

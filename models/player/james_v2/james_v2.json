@@ -28,6 +28,7 @@
 			"name": "James"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c43527dd233fd884ce4bb44f6c693a5c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "James.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

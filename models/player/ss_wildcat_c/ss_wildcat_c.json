@@ -273,6 +273,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -880,7 +881,11 @@
 	],
 	"id": 1414743113,
 	"md5": "95b392de68d5553258a9c69da93029f8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "neko_test.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

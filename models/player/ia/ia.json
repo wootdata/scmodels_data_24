@@ -32,6 +32,7 @@
 			"name": "headphones"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1586136567,
 	"events": [
@@ -269,7 +270,11 @@
 	],
 	"id": 1414743113,
 	"md5": "128f3a75e8e115305e57743329ac72d1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ia5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -112,6 +112,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -719,7 +720,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e4ecbe0550ec12636633f8cc8f8e7597",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nepgear_mazz.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f0fea97558420bde6405195b932cb1ed",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "recruit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

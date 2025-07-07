@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b66ec537519b6b07d21384a57cccc651",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Dina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

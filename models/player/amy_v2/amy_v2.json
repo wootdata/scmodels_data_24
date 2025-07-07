@@ -33,6 +33,7 @@
 			"name": "Amy_rose"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -464,7 +465,11 @@
 	],
 	"id": 1414743113,
 	"md5": "55c981dd3f43e9f615dce63e0b071eff",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "amy_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

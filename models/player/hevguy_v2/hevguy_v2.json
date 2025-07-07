@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "11119e3ded2c04bc4c5b8e170282cc03",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevguy.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

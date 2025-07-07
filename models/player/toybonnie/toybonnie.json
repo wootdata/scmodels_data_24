@@ -128,6 +128,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -398,7 +399,11 @@
 	],
 	"id": 1414743113,
 	"md5": "99e69bb5a5391d34f2ce8264fb1c6dbd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Joshua\\Desktop\\ToyBonnie\\ToyBonnie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

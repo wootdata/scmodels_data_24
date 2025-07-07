@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3d7afca79dcd08e603381ed9646fc2f7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "terrance.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

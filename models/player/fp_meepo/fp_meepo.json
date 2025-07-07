@@ -113,6 +113,7 @@
 			"name": "GatiitoSC"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -446,7 +447,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5200a8b91f91e413c940702b3ff634a0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Gatiito_General.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

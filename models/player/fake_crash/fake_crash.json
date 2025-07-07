@@ -33,6 +33,7 @@
 			"name": "Fake_Crash"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d3953e9d7d87a35062bc00959743328a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Fake_Crash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

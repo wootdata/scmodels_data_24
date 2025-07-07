@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "45e4ea96afeaf4d62dc9f8e6ba50fd0c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmc2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2bf055503b1bac344402a8f450424cf9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zombie_player.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0e2bdc61396f04693be641b4758c3123",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Scientist_Walter.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

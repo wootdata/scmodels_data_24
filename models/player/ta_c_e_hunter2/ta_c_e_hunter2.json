@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3e0cd7ec6b67a12e65a49f6e6d5c38f6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_c_e_hunter.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

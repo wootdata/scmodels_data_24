@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f4131e1e47149ea24b94928d46ff9e4e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\wjhol\\Pictures\\Milkshape Stuff\\Projects\\LSD Player Modep",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

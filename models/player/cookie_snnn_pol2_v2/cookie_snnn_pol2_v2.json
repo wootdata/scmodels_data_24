@@ -243,6 +243,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -523,7 +524,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8561fc5331a123d3cce1f4abca77b75d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cookie_SNNN_Pol_Nohat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

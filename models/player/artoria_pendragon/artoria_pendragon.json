@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -692,7 +693,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3dc3f984249bb445f054de47fbb6f2aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ArtoriaPendragon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "82873152b92b58d985db279e2a87117f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files\\Steam\\steamapps\\common\\Sven Co-op\\Edition Playet!",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

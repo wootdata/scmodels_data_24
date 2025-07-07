@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -774,7 +775,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6025a4a51f38e7f47df0693a7eb0b706",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mikoto_Cat_1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -132,6 +132,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -467,7 +468,11 @@
 	],
 	"id": 1414743113,
 	"md5": "85ed36be01bfb4f1ae55ec1ed0ba3762",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KM_KarenKujo_xmas.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

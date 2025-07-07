@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -184,7 +185,11 @@
 	],
 	"id": 1414743113,
 	"md5": "330caff4cc797f0070465a2965335c5c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/leon/leon.",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

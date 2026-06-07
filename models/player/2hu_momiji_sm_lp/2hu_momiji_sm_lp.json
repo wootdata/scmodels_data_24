@@ -308,7 +308,7 @@
 	"metahook_ragdoll": false,
 	"modid": 7,
 	"name": "2hu_momiji_sm_lp.mdl",
-	"preview": false,
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [

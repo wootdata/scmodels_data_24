@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1382279590,
+	"date": 1780811533,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "26c2060c5ab7bff9f9581db72982bb27",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "saf.mdl",
 	"preview": true,
 	"readme": false,

@@ -32,12 +32,18 @@
 			"name": "parts"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
-	"date": 913782618,
+	"date": 1780811531,
 	"events": [],
 	"id": 1414743113,
 	"md5": "1ec0788f692cd0d8f88d864d51ae4269",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "valve/models/Bleachbones.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

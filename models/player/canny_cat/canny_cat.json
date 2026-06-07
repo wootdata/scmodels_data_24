@@ -25,15 +25,15 @@
 		{
 			"models": [
 				{
-					"name": "MARIO_WAAHOO",
-					"polys": 3696,
-					"verts": 1919
+					"name": "canny_cat_reference",
+					"polys": 340,
+					"verts": 186
 				}
 			],
-			"name": "IM HAVING A STROKE"
+			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -66,32 +66,10 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 16,
-			"end": -5.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 1
 		}
 	],
-	"date": 1780811533,
+	"date": 1772271706,
 	"events": [
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/jump.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/long_jump.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
 		{
 			"event": 2001,
 			"frame": 9,
@@ -139,41 +117,6 @@
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/melee_attack.wav",
-			"sequence": 21,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 27,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 30,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 35,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 40,
 			"type": 0
 		}, 
 		{
@@ -357,28 +300,14 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death2.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "cc943619c6f81bd47365134b40380a91",
+	"md5": "4d65de8e92b1e07d8ecbc740e7c260df",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "MP_ToadC.mdl",
+	"name": "canny_cat.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -1339,7 +1268,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1422540,
+	"size": 839736,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1406,20 +1335,16 @@
 			"parent": 6
 		}, 
 		{
-			"name": "mouth",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 17
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 18
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1427,11 +1352,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1439,21 +1364,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "remap1_000_255_255.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "Toad_body.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "Toad_eye.bmp",
-			"width": 32
+			"height": 128,
+			"name": "canny.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

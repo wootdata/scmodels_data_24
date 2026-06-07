@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "5dbf35a04a02ef25c0ffdb9d63e6370b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\Cowboy\\Cowboy_DM.mdl",
 	"preview": false,
 	"readme": false,

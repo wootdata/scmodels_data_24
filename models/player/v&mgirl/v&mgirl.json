@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 973212068,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "21e4801329d125bbacd96ec6a19b1be0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "c:/game/halflife/valve/models/player/tsugumi/tsugumi.mdl",
 	"preview": true,
 	"readme": false,
